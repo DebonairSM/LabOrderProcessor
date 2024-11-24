@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabOrderProcessor.API", "La
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabOrderProcessor.Tests", "LabOrderProcessor.Tests\LabOrderProcessor.Tests.csproj", "{2BF53484-7882-4A88-B5F3-517B74638419}"
 EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "LabOrderProcessor.Web", "LabOrderProcessor.Web\LabOrderProcessor.Web.esproj", "{285E74AC-3B3F-46B5-A716-F873012698F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,12 @@ Global
 		{2BF53484-7882-4A88-B5F3-517B74638419}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BF53484-7882-4A88-B5F3-517B74638419}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BF53484-7882-4A88-B5F3-517B74638419}.Release|Any CPU.Build.0 = Release|Any CPU
+		{285E74AC-3B3F-46B5-A716-F873012698F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{285E74AC-3B3F-46B5-A716-F873012698F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{285E74AC-3B3F-46B5-A716-F873012698F8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{285E74AC-3B3F-46B5-A716-F873012698F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{285E74AC-3B3F-46B5-A716-F873012698F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{285E74AC-3B3F-46B5-A716-F873012698F8}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
