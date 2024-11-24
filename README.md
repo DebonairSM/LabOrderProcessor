@@ -57,7 +57,7 @@ To start a local development server, run:
 ng serve
 ```
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+Once the server is running, open your browser and navigate to `http://localhost:54165/`. The application will automatically reload whenever you modify any of the source files.
 
 ### Code scaffolding
 
@@ -82,6 +82,8 @@ ng build
 ```
 
 This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+
+Alternatively, you can run the application using two instances of Visual Studio 2022 by setting LabOrderProcessor.Web and LabOrderProcessor.API as the default projects in each and running them.
 
 ### Running unit tests
 
