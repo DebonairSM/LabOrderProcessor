@@ -85,6 +85,10 @@ This will compile your project and store the build artifacts in the `dist/` dire
 
 Alternatively, you can run the application using two instances of Visual Studio 2022 by setting LabOrderProcessor.Web and LabOrderProcessor.API as the default projects in each and running them.
 
+### "OutputDirectory": 
+
+Manually create the folder at "C:/LabOrders/Processed". Make sure to delete the file befor trying again with the same file name. 
+
 ### Running unit tests
 
 To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
