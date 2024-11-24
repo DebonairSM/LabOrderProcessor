@@ -1,4 +1,3 @@
-```markdown
 # LabOrderProcessor
 
 An Invene assessment application to redact PHI from lab orders.
