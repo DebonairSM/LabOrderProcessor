@@ -1,0 +1,6 @@
+@LabOrderProcessor.API_HostAddress = http://localhost:5050
+
+GET {{LabOrderProcessor.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabOrderProcessor.API", "LabOrderProcessor.API\LabOrderProcessor.API.csproj", "{DAEBD08F-E291-466B-B21F-04E213B60767}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabOrderProcessor.Tests", "LabOrderProcessor.Tests\LabOrderProcessor.Tests.csproj", "{2BF53484-7882-4A88-B5F3-517B74638419}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAEBD08F-E291-466B-B21F-04E213B60767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAEBD08F-E291-466B-B21F-04E213B60767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAEBD08F-E291-466B-B21F-04E213B60767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAEBD08F-E291-466B-B21F-04E213B60767}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BF53484-7882-4A88-B5F3-517B74638419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BF53484-7882-4A88-B5F3-517B74638419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BF53484-7882-4A88-B5F3-517B74638419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BF53484-7882-4A88-B5F3-517B74638419}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
